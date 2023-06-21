@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.tab-name {
+  color: #7b8794;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-family: 'Roboto';
+  font-size: 13px;
+  line-height: 30px;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+  border-bottom: 1px solid lightgrey;
+  outline: none;
+  background-color: transparent;
+  margin-top: 1px;
+}
+
+.active-tab-item {
+  color: #2563eb;
+  line-height: 35px;
+  margin-top: -7px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  border: none;
+  border-bottom: 3px solid #2563eb;
+}
